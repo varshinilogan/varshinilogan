@@ -5,6 +5,8 @@
 
 ## Hi — I'm Varshini 👋
 
+![Waving Hand](waving-hand.gif)
+
 I'm a student developer at Rice University who likes building small web apps and participating in hackathons. I focus on front-end and lightweight full-stack projects using JavaScript/TypeScript and Python. I enjoy polishing UX, shipping demos, and learning new tools.
 
 Quick stats
