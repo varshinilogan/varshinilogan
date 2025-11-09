@@ -5,7 +5,7 @@
 
 ## Hi — I'm Varshini 👋
 
-![Waving Hand](waving-hand.gif)
+<img src="waving-hand.svg" alt="Waving Hand" width="50" height="50">
 
 I'm a student developer at Rice University who likes building small web apps and participating in hackathons. I focus on front-end and lightweight full-stack projects using JavaScript/TypeScript and Python. I enjoy polishing UX, shipping demos, and learning new tools.
 
