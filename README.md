@@ -3,6 +3,7 @@
 Student at Rice University. Building projects and learning in public on GitHub.
 
 [![GitHub Followers](https://img.shields.io/github/followers/varshinilogan?label=Followers&style=flat-square)](https://github.com/varshinilogan)
+![Pull Requests](https://img.shields.io/github/issues-pr-raw/varshinilogan?label=Pull%20Requests&style=flat-square)
 
 ## About
 - Location: US
