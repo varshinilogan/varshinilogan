@@ -1,24 +1,30 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Hi, I'm Varshini Loganathan 🤪
+
+[![GitHub Followers](https://img.shields.io/github/followers/varshinilogan?label=Followers&style=flat-square)](https://github.com/varshinilogan)
+[![Repo Collector](https://img.shields.io/badge/Repo%20Collector-11%20and%20counting-ff8c00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshinilogan?tab=repositories)
+[![MLH](https://img.shields.io/badge/MLH-Coaches-blue?style=flat-square)](https://mlh.io/)
+
+I build practical web projects and keep learning through hackathons, coursework, and community collaboration.
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
-
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- GitHub: [@varshinilogan](https://github.com/varshinilogan)
+- Building with TypeScript, JavaScript, and HTML
+- Active on GitHub since 2020
+- MyMLH education profile includes: Westmont High School
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- [varshini-portfolio](https://github.com/varshinilogan/varshini-portfolio) (TypeScript) - Personal portfolio project focused on clean frontend presentation.
+- [movie-finder7855](https://github.com/varshinilogan/movie-finder7855) (JavaScript) - Movie-focused app project with search and UI experimentation.
+- [clickergame](https://github.com/varshinilogan/clickergame) - MLH GHW Season Launch Web Dev project.
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Community
+- MLH: Coaches team
+- RiceComp215-Fall25: Section001-Group1
+
+## Current Focus
+- Strengthening full-stack foundations through consistent project work
+- Shipping polished, simple interfaces with solid user experience
+- Growing through hackathon and student developer communities
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
