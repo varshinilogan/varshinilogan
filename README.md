@@ -3,6 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/varshinilogan?label=Followers&style=flat-square)](https://github.com/varshinilogan)
 [![Repo Collector](https://img.shields.io/badge/Repo%20Collector-11%20and%20counting-ff8c00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshinilogan?tab=repositories)
 [![MLH](https://img.shields.io/badge/MLH-Coaches-blue?style=flat-square)](https://mlh.io/)
+[![Hackathons](https://img.shields.io/badge/Hackathons-30%20attended-22c55e?style=flat-square&logo=hackaday&logoColor=white)](#)
 
 I build practical web projects and keep learning through hackathons, coursework, and community collaboration.
 
