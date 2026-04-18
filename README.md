@@ -1,31 +1,43 @@
-# Hi, I'm Varshini Loganathan 🤪
+# Varshini Loganathan
 
 [![GitHub Followers](https://img.shields.io/github/followers/varshinilogan?label=Followers&style=flat-square)](https://github.com/varshinilogan)
-[![Repo Collector](https://img.shields.io/badge/Repo%20Collector-11%20and%20counting-ff8c00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshinilogan?tab=repositories)
-[![MLH](https://img.shields.io/badge/MLH-Coaches-blue?style=flat-square)](https://mlh.io/)
-[![Hackathons](https://img.shields.io/badge/Hackathons-30%20attended-22c55e?style=flat-square&logo=hackaday&logoColor=white)](#)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-11-0A66C2?style=flat-square)](https://github.com/varshinilogan?tab=repositories)
+[![MLH Coaches](https://img.shields.io/badge/MLH-Team%20Coaches-3CB371?style=flat-square)](https://mlh.io)
+[![Hackathons](https://img.shields.io/badge/Hackathons-14-FF6B35?style=for-the-badge&logo=trophy&logoColor=white)](https://mlh.io/events)
 
-I build practical web projects and keep learning through hackathons, coursework, and community collaboration.
+I build practical web projects and hackathon-ready tools, with a focus on clean UX and reliable implementation. 🚀
 
 ## About
+
+- Name: Varshini Loganathan
 - GitHub: [@varshinilogan](https://github.com/varshinilogan)
-- Building with TypeScript, JavaScript, and HTML
-- Active on GitHub since 2020
-- MyMLH education profile includes: Westmont High School
+- Country: United States
+- Education: Rice University
+- Communities: MLH Coaches, RiceComp215-Fall25
 
-## Featured Projects
-- [varshini-portfolio](https://github.com/varshinilogan/varshini-portfolio) (TypeScript) - Personal portfolio project focused on clean frontend presentation.
-- [movie-finder7855](https://github.com/varshinilogan/movie-finder7855) (JavaScript) - Movie-focused app project with search and UI experimentation.
-- [clickergame](https://github.com/varshinilogan/clickergame) - MLH GHW Season Launch Web Dev project.
+## Selected Projects
 
-## Community
-- MLH: Coaches team
-- RiceComp215-Fall25: Section001-Group1
+- [varshini-portfolio](https://github.com/varshinilogan/varshini-portfolio) - Personal portfolio site built with TypeScript.
+- [movie-finder7855](https://github.com/varshinilogan/movie-finder7855) - JavaScript app for searching and exploring movie data.
+- [clickergame](https://github.com/varshinilogan/clickergame) - Small web game project from MLH GHW Season Launch.
+- [html-website](https://github.com/varshinilogan/html-website) - Lightweight HTML website project.
 
-## Current Focus
-- Strengthening full-stack foundations through consistent project work
-- Shipping polished, simple interfaces with solid user experience
-- Growing through hackathon and student developer communities
+## Focus
+
+- Building clear, user-friendly web experiences
+- Learning through hackathons and project-based work
+- Growing in modern frontend development with TypeScript and JavaScript
+
+## Quick Stats
+
+- Public repositories: 11
+- Followers: 1
+- Following: 2
+- Public gists: 0
+
+## Connect
+
+- GitHub profile: [github.com/varshinilogan](https://github.com/varshinilogan)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
